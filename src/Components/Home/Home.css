@@ -1,5 +1,5 @@
 .Home {
-  background: white url('./../../images/background.png') center/cover no-repeat;
+  background: white url('./../../images/Backcountry.jpg') center/cover no-repeat;
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -10,5 +10,5 @@
 
 .Home h2 {
   font: 24px "Roboto Slab", sans-serif;
-  color: white;
+  color: black;
 }

@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-between;
   padding: 20px;
-  background: #252525;
+  background:black;
 }
 
 .Nav img {
@@ -31,9 +31,9 @@
 }
 
 .Nav a:active{
-  color: #2BAAE2;
+  color: #FF9148;
 }
 
 .Nav a:hover {
-  color: #2BAAE2;
+  color: #FF9148;
 }
